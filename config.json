@@ -1,0 +1,10 @@
+{
+  "_comment": "Setup configuration for this skill. Claude reads this on first run. Never store actual credentials here.",
+  "slack_channel": "",
+  "api_base_url": "",
+  "output_format": "markdown",
+  "settings": {
+    "max_retries": 3,
+    "timeout_seconds": 30
+  }
+}
