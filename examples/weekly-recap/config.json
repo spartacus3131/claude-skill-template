@@ -1,0 +1,14 @@
+{
+  "github_org": "your-org",
+  "repos": ["repo-1", "repo-2", "repo-3"],
+  "slack_channel": "#team-updates",
+  "exclude_authors": ["dependabot[bot]", "renovate[bot]"],
+  "categories": {
+    "feat": "Feature",
+    "fix": "Fix",
+    "chore": "Chore",
+    "docs": "Docs",
+    "refactor": "Refactor"
+  },
+  "days_back": 7
+}
